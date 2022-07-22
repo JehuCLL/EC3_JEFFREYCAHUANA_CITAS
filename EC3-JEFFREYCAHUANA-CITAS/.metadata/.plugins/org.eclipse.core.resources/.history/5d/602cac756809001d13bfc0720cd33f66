@@ -1,0 +1,10 @@
+package com.example.citas.seguridad;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+
+@Configuration
+@Enablea
+public class AutroritationConfig extends WebSecurityConfigurerAdapter{
+
+}

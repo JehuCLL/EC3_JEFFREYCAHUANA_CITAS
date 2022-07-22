@@ -1,0 +1,11 @@
+package com.example.citas.repositorio;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.idat.EC3RamirezEmilio.modelo.Cliente;
+
+
+
+public interface ClienteRepositorio extends JpaRepository<Cliente, Integer>{
+
+}

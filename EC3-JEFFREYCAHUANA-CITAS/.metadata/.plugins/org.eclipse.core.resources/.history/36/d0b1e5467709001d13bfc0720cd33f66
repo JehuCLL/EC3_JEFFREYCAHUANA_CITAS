@@ -1,0 +1,12 @@
+package com.example.com.servicios;
+
+import java.util.List;
+
+import com.idat.EC3RamirezEmilio.dto.UsuarioClienteDTORequest;
+import com.idat.EC3RamirezEmilio.dto.UsuarioClienteDTOResponse;
+
+
+
+public interface UsuarioClienteService {
+
+}
